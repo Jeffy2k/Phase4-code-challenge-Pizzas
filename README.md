@@ -19,6 +19,8 @@ To clone the the repository on your own machine run:
 
 ## Endpoints
 
+LIVE LINK <https://phase4-code-challenge-pizzas.onrender.com/>
+
 **GET   /restaurants**
 
 Returns an array of all restaurants in the format below
